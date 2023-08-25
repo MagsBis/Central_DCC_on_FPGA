@@ -4,5 +4,8 @@ Creation in Vivado of the DCC Central : Description in VHDL of modules allowing 
 In Vitis: development of the C code allowing to control the trains through the Microblaze and the IP Centrale DCC
 
 sim contains : all the testbench's of the DCC Central modules
-src contains : -the c code file for the software part in vitis
-	       -the vhd source codes of the DCC Central modules
+src contains : 
+
+-the c code file for the software part in vitis
+	      
+-the vhd source codes of the DCC Central modules
