@@ -1,6 +1,6 @@
 ----------------------------------------------------------------------------------
 -- Company: SORBONNE UNIVERSITE
--- Designed by: BISLIEV Magomed 
+-- Designed by: BISLIEV Magomed - YANG Zixiao
 --
 -- Module Name: TB_COMPTEUR_TEMPO - Behavioral
 -- Project Name: Centrale DCC
