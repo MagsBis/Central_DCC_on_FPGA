@@ -3,13 +3,6 @@ announcements of one or more trains.
 
 # File architecture :
 
-* sim : contains all the testbench's of the DCC Central modules
-* src  :
-```txt
-    - contains the c code file for the software part in vitis
-    - the vhd source codes of the DCC Central modules
-```
-
 ``Central_DCC_on_FPGA ``\
 ├── ``sim/`` : all the testbench's of the DCC Central modules\
 ├── ``src/``\
