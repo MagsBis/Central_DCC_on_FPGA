@@ -10,4 +10,4 @@ announcements of one or more trains.
 │   ├── ``vhd code/`` : vhd source codes of the DCC Central modules\
 ├── ``Basys_3_Master.xdc`` : constraint file for the Basys3\
 ├── ``Rapport_projet_FPGA_BISLIEV_YANG.pdf`` : project report\
-├── ``wrapper.xsa`` : FPGA wrapper file\
+└── ``wrapper.xsa`` : FPGA wrapper file\
