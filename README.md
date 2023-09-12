@@ -1,7 +1,7 @@
 Creation of a user interface using a Basys3 card to control the speed and activation/deactivation of headlight calls or sound
 announcements of one or more trains. 
 
-# File architecture :
+# Project architecture :
 
 ``Central_DCC_on_FPGA ``\
 ├── ``sim/`` : all the testbench's of the DCC Central modules\
