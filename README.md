@@ -5,5 +5,5 @@ announcements of one or more trains.
 
 * sim : contains all the testbench's of the DCC Central modules
 * src  :
-  - contains the c code file for the software part in vitis
-  - contains the vhd source codes of the DCC Central modules
+    contains the c code file for the software part in vitis
+    contains the vhd source codes of the DCC Central modules
