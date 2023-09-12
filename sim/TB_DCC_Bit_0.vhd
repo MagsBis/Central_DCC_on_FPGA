@@ -1,6 +1,6 @@
 ----------------------------------------------------------------------------------
 -- Company: SORBONNE UNIVERSITE
--- Designed by: BISLIEV Magomed 
+-- Designed by: BISLIEV Magomed - YANG Zixiao
 --
 -- Module Name: TB_DCC_Bit_0 - Behavioral
 -- Project Name: Centrale DCC
